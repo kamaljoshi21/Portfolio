@@ -1,0 +1,125 @@
+
+h1{
+    color:  #66BFBF;
+    margin-top: 0px;
+    font-family: 'Rowdies', cursive;
+    font-size: 450%;
+    padding: 50px;
+    padding-top: 30px;
+}
+h2{
+    color:  #66BFBF;
+    font-size: 2.5rem;
+    font-weight: normal;
+}
+h3{
+    color:#66BFBF ;
+    margin-bottom: 30px;
+}
+
+body{
+    margin: 0px;
+    text-align: center;
+    
+}
+
+.first_container{
+    background-color: #EAF6F6;
+    padding: 100px;
+    padding-right: 150px;
+    padding-top: 0;
+    
+}
+.second_container{
+    
+    
+
+}
+.middle-container{
+       
+}
+h1{
+    margin: 0;
+    
+}
+.cloud2{
+   position: absolute;
+
+}
+.top{
+    position: relative;
+    top: 30px;
+    left: 50px;
+}
+.cloud1{
+    position: relative;
+    left:250px;
+}
+.mountain{
+    padding-top: 0;
+}
+.firstline{
+    
+}
+.skill-row{
+    margin: 100px auto 100px auto;
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+}
+.skillimage{
+    float: left;
+    width: 25%;
+    padding-right: 30px;
+}
+.skillimage1{
+    float: right;
+    width: 25%;
+    padding-left: 30px;
+}
+.mypic{
+    margin-top: 70px;
+    width: 20%;
+}
+.profile-detail{
+    font-weight: 400;
+    margin-left: 400px;
+    width: 500px;
+    color: #40514E;
+    margin-bottom: 50px;
+}
+hr{ 
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 8px;
+    height: 0px;
+    width: 8%;
+    border-color: grey;
+    margin-bottom: 100px;
+}
+.contact-me{
+    height: 260px;
+   
+}
+.btn{
+     border-radius: 5px;
+     background-color:#2596be;
+     padding: 7px 14px 7px 14px;
+     position: relative;
+     top: 20px;
+     text-decoration: none;
+     color: white;
+}
+.bottom-container{
+    padding: 25px;
+    background-color: #66BFBF;
+}
+.footer-link{
+    margin: 20px;
+    text-decoration: none;
+    color: #11999E;
+}
+.copyright{
+    color: #EAF6F6;
+    margin-top: 40px;
+}
